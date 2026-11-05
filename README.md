@@ -1,5 +1,5 @@
-# Hi there, I'm Artur Malakhov (麦亚图) 👋
-**B.Sc. in Computer Science & Intelligent Control Systems @ RTU MIREA (Moscow)**
+# Hi there, I'm Artur Malakhov 👋
+**B.Sc. in Computer Science & Intelligent Control Systems @ RTU MIREA (Moscow) 09.03.01**
 
 🔬 **Research Focus:** Computer Vision (`YOLOv10`, `RT-DETR`), Neuro-Symbolic AI, Graph Databases (`Neo4j`), Multimodal LLMs (`Qwen2-VL`), and Chinese Paleography / Computational Sinology.
 
