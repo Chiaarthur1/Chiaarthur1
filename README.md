@@ -13,9 +13,8 @@
 ![Linux](https://img.shields.io/badge/Zorin_OS_/_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🚀 Featured R&D & Engineering Projects
-* 🀄 **[Project Cangjie]** — Neuro-Symbolic AI pipeline for structural decomposition of Chinese characters (`RT-DETR` / `YOLOv10` + `Neo4j` Knowledge Graph + `Qwen2-VL`) for zero-hallucination OCR and semantic deduction.
+* 🀄 **[Cangjie]** — Neuro-Symbolic AI pipeline for structural decomposition of Chinese characters (`RT-DETR` / `YOLOv10` + `Neo4j` Knowledge Graph + `Qwen2-VL`) for zero-hallucination OCR and semantic deduction.
 * 🛣 **[RDD2022-YOLO-Benchmark]** — Comparative Computer Vision benchmark of `YOLOv8` vs `YOLOv10` architectures on the Road Damage Detection (`RDD2022`) dataset for smart vehicle infrastructure.
-* ⚖️ **[Moscow-Transport-Legal-OCR]** — Automated OCR & LLM legal document analysis system developed during the *Moscow Transport Hackathon 2026*.
 * 🌡 **[CPP-Microclimate-Monitor]** — Multithreaded IoT sensor simulation & microclimate monitoring engine written in `C++` with `SQLite` persistence and `JSON` configuration.
 
 📫 **Languages:** Russian (Native), English (Technical/B2), Chinese (HSK 3 in progress).
